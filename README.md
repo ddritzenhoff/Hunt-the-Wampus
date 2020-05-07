@@ -1,6 +1,9 @@
 # Hunt-the-Wampus
 
-![Wampus Game](Images/wampus.gif)
+
+<p align="center">
+  <img src="https://github.com/ddritzenhoff/Hunt-the-Wampus/blob/master/Images/wampus.gif?raw=true" alt="Wampus Game Animated GIF"/>
+</p>
 
 Last semester, I was approached by a friend who was trying to improve his Python skills by recreating a game called “Hunt the Wampus”. He asked me if I could help him, and I told him that I would. Needless to say, a few months later (actually like 8), I 100% didn’t help him and instead programmed my own version of the game. As for how it plays, Hunt the Wamus was “a text-based adventure game developed by Gregory Yob in 1973. In the game, the player moves through a series of connected caves, arranged in a dodecahedron [see below], as they hunt a monster named the Wumpus.” 
 
