@@ -10,6 +10,11 @@ Beginning the project, since I didn’t know how to create or even pronounce dod
 [ ? ][ ? ][ ? ][ ? ][ ? ]
 [ ? ][ ? ][ ? ][ ? ][ ? ]
 
+<p align="center">
+  <img src="https://github.com/ddritzenhoff/Hunt-the-Wampus/blob/master/Images/wampus_2d_matrix.PNG?raw=true" alt="Wampus 2D Matrix"/>
+</p>
+
+
 Still, I didn’t think the project was entirely done. Although I had programmed a decent amount up until then, I thought the lackluster visuals gave the impression that I had accomplished very little. Initially thinking I would just upload the python code to a website using Flask and have it run with its own cute little domain name, I soon realized that what I wanted to do hadn’t really been done before. Everything that I could find was pretty jank. This soon caused me to change course and begin looking around at different Python libraries. During this time, I was using the Nano text editor a fair bit since I liked playing around in Ubuntu. I thought that the program looked nice and simple enough, so after a bit of digging, I found the library used to mimic the look. Shortly afterwards, I began reworking my project to fit the library’s specifications. But it still wasn’t finished. I realized someone playing the game for the first time would have no idea where to start and how to win. Thus, a main menu needed to be added. Also, it made the project look more complex with a marginal amount of effort. After another bit of coding and a whole lot more debugging, I had a finished product. Overall, I’m happy with the result, and I learned a decent amount along the way.
 
 Once you have the necessary python libraries installed on your machine, simply run “python3 wampus.py” to start.
